@@ -1,4 +1,3 @@
-# Kedarnath-G
 <h1 align="center">Hey there! I'm Kedarnath 👋</h1>
 <h3 align="center">B.Tech ECE | Embedded Systems | IoT | Wireless | Computer Networks | Research-Driven</h3>
 
